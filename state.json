@@ -1,15 +1,6 @@
 {
   "channels": {},
-  "owners_map": {
-    "@Mr_labubu1990": {
-      "channels": [
-        {
-          "channel": "@test_bot_learning",
-          "discussion": -1003254634762
-        }
-      ]
-    }
-  },
+  "owners_map": {},
   "channels_registry": {
     "@test_bot_learning": "@Mr_labubu1990"
   }
